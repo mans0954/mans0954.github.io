@@ -1,5 +1,3 @@
----
----
 # Test second page
 
 Test.
