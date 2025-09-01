@@ -16,8 +16,8 @@ I [applied](https://nm.debian.org/person/mans0954/) to become a Debian Developer
   - [commons-email](https://tracker.debian.org/pkg/commons-email) Apache Commons Java API for sending email
   - [csvjdbc](https://tracker.debian.org/pkg/csvjdbc) read-only JDBC driver that uses CSV or DBF files as database tables
   - [dropwizard-metrics](https://tracker.debian.org/pkg/dropwizard-metrics) capture JVM- and application-level metrics for Java applications
-  - [mongo-java-driver](https://tracker.debian.org/pkg/mongo-java-driver)
-  - [rabbitmq-java-client](https://tracker.debian.org/pkg/rabbitmq-java-client)
+  - [mongo-java-driver](https://tracker.debian.org/pkg/mongo-java-driver) MongoDB Java Driver
+  - [rabbitmq-java-client](https://tracker.debian.org/pkg/rabbitmq-java-client) RabbitMQ Java client
 - Perl
   - [libamazon-s3-perl](https://tracker.debian.org/pkg/libamazon-s3-perl) portable client interface to Amazon Simple Storage System (S3)
   - [libapache-session-memcached-perl](https://tracker.debian.org/pkg/libapache-session-memcached-perl) Perl module for storing persistent data using memcached
