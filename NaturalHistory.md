@@ -11,3 +11,7 @@
 
 ![Large Skipper](/assets/images/2021-07-11_Kidlington_Large_Skipper.JPG)
 *Large Skipper*
+
+![Grass-of-parnassus](/assets/images/Grass-of-parnassus.JPG)
+*Grass-of-parnassus*
+
