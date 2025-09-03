@@ -22,6 +22,7 @@ Since 2021 I have been contributing to [Mathlib3](https://github.com/leanprover-
     - [Centroid of a *-ring](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Star/CentroidHom.lean)
     - [Lattice Ordered Groups](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Order/Group/Lattice.lean)
     - [Basis expansion of a quadratic map](https://github.com/leanprover-community/mathlib4/pull/18578)
+    - My work on non-associative structures was given a shout out by Jireh Loreaux during the Operator algebras talk at Lean Together 2024.
 - Significant refactors
 - The Strong Dual
     - [28726](https://github.com/leanprover-community/mathlib4/pull/28726)
